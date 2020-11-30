@@ -155,6 +155,10 @@ body {
 	margin-bottom: 0;
 }
 
+.mid img {
+	width: 100%;
+}
+
 #slides {
 	background: black;
 	padding-top: 0;
